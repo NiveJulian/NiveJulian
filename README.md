@@ -43,17 +43,22 @@ My focus is on continuous improvement, both technologically and personally, alwa
 
 ### 🔧 Featured Projects
 
-- [Project 1](Project URL): Brief description of the project.
-- [Project 2](Project URL): Brief description of the project.
-- [Project 3](Project URL): Brief description of the project.
+- [Project 1]([Project URL](https://neo-shop-front.vercel.app/)): Marketplace: This project is a dynamic and scalable marketplace developed collaboratively with a group of peers using the Scrum methodology. The goal was to create a user-friendly platform where buyers and sellers can interact seamlessly. We employed a robust tech stack to ensure efficient performance and maintainability.
+
+Frontend: Built with React and Next.js to provide a fast and responsive user interface.
+Backend: Utilized Express and Node.js to handle server-side logic and API endpoints.
+State Management: Implemented Redux for efficient state management and data flow.
+Database: Used PostgreSQL for reliable and scalable data storage.
+Image Storage: Integrated S3 bucket for efficient and secure image storage.
+Collaboration: Worked in an agile environment, practicing Scrum to manage sprints and ensure continuous delivery of features.
+Features: User registration and authentication, product listing and search, shopping cart functionality, order management, image uploading, and more.
 
 ---
 
 ### 📫 Contact Me
 
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](LinkedIn URL)
-- **Twitter:** [@yourusername](Twitter URL)
+- **Email:** [niveyrojulian5@gmail.com](mailto:niveyrojulian5@gmail.com)
+- **LinkedIn:** [Julian Niveyro]([LinkedIn URL](https://www.linkedin.com/in/julian-niveyro/))
 
 ---
 

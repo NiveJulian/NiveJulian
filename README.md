@@ -1,18 +1,18 @@
-# 👋 ¡Hola! Soy Julián Niveyro
+# 👋 Hi! I'm Julián Niveyro
 
 ---
 
-### Desarrollador Fullstack apasionado por la tecnología 🚀
+### Fullstack Developer passionate about technology 🚀
 
 ---
 
-### 🌟 Sobre mí
+### 🌟 About Me
 
-Soy un Desarrollador Fullstack con un sólido conocimiento en una amplia gama de tecnologías. Soy proactivo, ordenado y colaborativo, con una fuerte orientación a trabajar en equipo y la capacidad de asumir proyectos de forma independiente.
+I am a Fullstack Developer with solid knowledge in a wide range of technologies. I am proactive, organized, and collaborative, with a strong orientation towards teamwork and the ability to take on projects independently.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies and Tools
 
 **Frontend:**
 - HTML
@@ -28,39 +28,39 @@ Soy un Desarrollador Fullstack con un sólido conocimiento en una amplia gama de
 - Express
 - PHP
 
-**Bases de Datos:**
+**Databases:**
 - MySQL
 - PostgreSQL
 - MongoDB
 
 ---
 
-### 📈 Mi enfoque
+### 📈 My Focus
 
-Mi enfoque se centra en la mejora continua, tanto tecnológica como personal, buscando siempre nuevos desafíos y oportunidades de aprendizaje. He liderado proyectos desde la conceptualización hasta la implementación, asegurando la entrega de soluciones eficientes y escalables.
-
----
-
-### 🔧 Proyectos Destacados
-
-- [Proyecto 1](URL del proyecto): Breve descripción del proyecto.
-- [Proyecto 2](URL del proyecto): Breve descripción del proyecto.
-- [Proyecto 3](URL del proyecto): Breve descripción del proyecto.
+My focus is on continuous improvement, both technologically and personally, always seeking new challenges and learning opportunities. I have led projects from conceptualization to implementation, ensuring the delivery of efficient and scalable solutions.
 
 ---
 
-### 📫 Contáctame
+### 🔧 Featured Projects
 
-- **Correo:** [tuemail@example.com](mailto:tuemail@example.com)
-- **LinkedIn:** [Tu Perfil de LinkedIn](URL de LinkedIn)
-- **Twitter:** [@tuusuario](URL de Twitter)
-
----
-
-### ⚡ Frase Inspiradora
-
-*"La tecnología es mejor cuando reúne a las personas."* - Matt Mullenweg
+- [Project 1](Project URL): Brief description of the project.
+- [Project 2](Project URL): Brief description of the project.
+- [Project 3](Project URL): Brief description of the project.
 
 ---
 
-¡Estoy emocionado por la posibilidad de
+### 📫 Contact Me
+
+- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](LinkedIn URL)
+- **Twitter:** [@yourusername](Twitter URL)
+
+---
+
+### ⚡ Inspirational Quote
+
+*"Technology is best when it brings people together."* - Matt Mullenweg
+
+---
+
+I am excited about the possibility of contributing to innovative projects and being part of teams that drive technological advancement! Let's build the future together! 💪

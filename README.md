@@ -43,7 +43,7 @@ My focus is on continuous improvement, both technologically and personally, alwa
 
 ### 🔧 Featured Projects
 
-- [Marketplace](https://neo-shop-front.vercel.app/): This project is a dynamic and scalable marketplace developed collaboratively with a group of peers using the Scrum methodology. The goal was to create a user-friendly platform where buyers and sellers can interact seamlessly. We employed a robust tech stack to ensure efficient performance and maintainability.
+- [Marketplace](https://neoshop.techwebstudio.com.ar/): This project is a dynamic and scalable marketplace developed collaboratively with a group of peers using the Scrum methodology. The goal was to create a user-friendly platform where buyers and sellers can interact seamlessly. We employed a robust tech stack to ensure efficient performance and maintainability.
   - **Frontend:** Built with React and Next.js to provide a fast and responsive user interface.
   - **Backend:** Utilized Express and Node.js to handle server-side logic and API endpoints.
   - **State Management:** Implemented Redux for efficient state management and data flow.
